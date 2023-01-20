@@ -1,0 +1,29 @@
+body {
+    margin: auto;
+    padding: 5% 10% 5% 10%;
+    text-align: center;
+    font-family: "DejaVu Sans", sans-serif;
+}
+h1 {
+    font-family: Garuda, sans-serif;
+    font-size: 3em;
+    color: darkslategray;
+}
+img {
+    width: 30%;
+    min-width: 400px;
+}
+hr {
+    margin: 5% auto 5%;
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    color: #ff9877;
+}
+ol, ul {
+    text-align: left;
+}
+.align-left {
+    text-align: left;
+}
